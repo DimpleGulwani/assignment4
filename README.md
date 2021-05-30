@@ -1,2 +1,3 @@
-# assignment4
-this is assignment 4
+# html assignments
+this is a repository
+of all assignments
